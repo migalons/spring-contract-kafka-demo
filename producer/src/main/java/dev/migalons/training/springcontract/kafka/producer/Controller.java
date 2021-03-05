@@ -1,6 +1,6 @@
-package dev.migalons.training.springcontract.kafka.consumer;
+package dev.migalons.training.springcontract.kafka.producer;
 
-import dev.migalons.training.springcontract.kafka.consumer.dto.Email;
+import dev.migalons.training.springcontract.kafka.producer.dto.Email;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

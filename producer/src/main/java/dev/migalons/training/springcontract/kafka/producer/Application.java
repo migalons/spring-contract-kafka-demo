@@ -1,4 +1,4 @@
-package dev.migalons.training.springcontract.kafka.consumer;
+package dev.migalons.training.springcontract.kafka.producer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

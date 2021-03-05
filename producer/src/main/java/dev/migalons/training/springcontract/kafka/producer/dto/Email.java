@@ -1,4 +1,4 @@
-package dev.migalons.training.springcontract.kafka.consumer.dto;
+package dev.migalons.training.springcontract.kafka.producer.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -11,5 +11,5 @@ public class Email {
     private String sender;
     private String receiver;
     private String subject;
-    private String message;
+    private String body;
 }
